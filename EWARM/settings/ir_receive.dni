@@ -1,0 +1,52 @@
+[RecentFlashDownload]
+Path=C:\MinGW\msys\1.0\home\MTK11553\3.3.1\out_iar\mt7687_hdk\ir_receive\Exe\ir_receive.out
+[Jet]
+JetConnSerialNo=37161
+JetConnFoundProbes=
+DisableInterrupts=0
+LeaveRunning=0
+MultiCoreRunAll=0
+[PlDriver]
+FirstRun=0
+MemConfigValue=C:\MinGW\msys\1.0\home\MTK11553\3.3.1\project\mt7687_hdk\apps\ir_receive\EWARM\..\..\..\..\..\tools\iar\mt7687\MT7687.ddf
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[SWOManager]
+SamplingDivider=8192
+OverrideClock=0
+CpuClock=696008061
+SwoClock=560889384
+DataLogMode=0
+ItmPortsEnabled=63
+ItmTermIOPorts=1
+ItmLogPorts=0
+ItmLogFile=$PROJ_DIR$\ITM.log
+PowerForcePC=1
+PowerConnectPC=1
+[ArmDriver]
+EnableCache=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

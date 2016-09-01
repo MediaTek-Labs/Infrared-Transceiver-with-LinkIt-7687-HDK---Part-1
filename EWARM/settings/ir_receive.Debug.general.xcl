@@ -1,0 +1,13 @@
+"D:\apps\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"D:\apps\IAR Systems\Embedded Workbench 7.5\arm\bin\armJET.dll" 
+
+"C:\MinGW\msys\1.0\home\MTK11553\3.3.1\project\mt7687_hdk\apps\ir_receive\EWARM\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Exe\ir_receive.out" 
+
+--plugin "D:\apps\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--flash_loader "C:\MinGW\msys\1.0\home\MTK11553\3.3.1\project\mt7687_hdk\apps\ir_receive\EWARM\..\..\..\..\..\tools\iar\mt7687\FlashMT7687.board" 
+
+
+
+

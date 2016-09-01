@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4210625180</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\system_mt7687.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\main.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\dma.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\nvic.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\low_hal_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\low_hal_irrx.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_uart.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Exe\ir_receive.out</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Exe\ir_receive.bin</file>
+      <file>$PROJ_DIR$\startup_mt7687.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\dma.c</file>
+      <file>$PROJ_DIR$\..\src\main.c</file>
+      <file>$PROJ_DIR$\..\src\system_mt7687.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_gpio_7687.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_irrx.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_log.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_nvic.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_nvic_internal.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_pinmux.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\pinmux.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\uart.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_log.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_irrx.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\pinmux.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\nvic.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\low_hal_irrx.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\low_hal_gpio.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_uart.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_pinmux.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_nvic_internal.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_nvic.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_gpio_7687.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_gpio.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\dma.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\ir_receive.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\system_mt7687.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\startup_mt7687.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\uart.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\pinmux.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\nvic.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\low_hal_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_uart.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_pinmux.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\low_hal_irrx.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_nvic_internal.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_log.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_nvic.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_irrx.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Obj\hal_gpio_7687.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Device\MTK\mt7687\Include\exception_mt7687.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\inc\hal_feature_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\hal_pinmux_define.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\hal_platform.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\hal_log.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_cache.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_gdma.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_uart.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_irrx.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_nvic.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_gpt.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_define.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Device\MTK\mt7687\Include\mt7687.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Include\core_cm4.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Include\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\tools\iar\mt7687\bootloader\bootloader.bin</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\ir_receive.map</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+      <file>$PROJ_DIR$\flash.icf</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\type_def.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Device\MTK\mt7687\Include\mt7637_cm4_hw_memmap.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Device\MTK\mt7687\Include\memory_attribute.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\CMSIS\Device\MTK\mt7687\Include\system_mt7687.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\debug.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\dma_sw.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\nvic.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\low_hal_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\dma_hw.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_eint.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\pinmux.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\hal_gpio_7687.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\hal_pinmux.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\startup_mt7687.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\low_hal_gpio.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_nvic.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_nvic.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\pinmux.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_pinmux.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\pinmux.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\low_hal_gpio.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_pinmux.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\main.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\uart.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\main.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\uart.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\hal_sleep_driver.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\top.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\inc\hal_sleep_manager.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\low_hal_irrx.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\timer.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\inc\hal_nvic_internal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\uart.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\uart_hw.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\nvic_extern.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\include\mem_util.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\dma.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\dma.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_gpio.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_gpio.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_nvic_internal.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\system_mt7687.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_gpio_7687.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_irrx.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_irrx.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\system_mt7687.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_gpio_7687.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_nvic_internal.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\nvic.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\nvic.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_uart.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_log.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\low_hal_irrx.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_log.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\low_hal_irrx.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\List\hal_uart.lst</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\nvic.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 145 144 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 58 62 87 131 60 85 130 56 53 94 101 126 96 66 81 82 86 68 69 61 83 84 80 79 57 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 101 131 94 126 80 130 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\low_hal_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115 109 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 86 64 96 66 102 81 68 55 105 82 62 69 58 57 104 76 94 106 56 53 60 85 83 87 84 59 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 76 59 94 102 105 106 95 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\low_hal_irrx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150 148 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 67 62 94 64 58 85 87 63 125 56 53 83 84 65 82 79 81 86 68 69 61 57 55 122 66 74 72 95 96 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 63 74 67 65 72 94 125 95 96 122 97 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146 151 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81 85 74 69 58 86 83 82 71 62 72 68 61 87 64 56 100 97 128 77 53 60 66 98 57 55 84 63 65 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65 62 58 68 53 60 69 61 74 72 100 66 81 64 86 56 82 85 83 84 55 57 87 98 97 128 71 63 67 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 8 89</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\out_iar\mt7687_hdk\ir_receive\Exe\ir_receive.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 92 88 2 4 52 51 49 50 48 46 45 44 47 1 43 42 40 0 41 90 91 93</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_mt7687.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 40 108</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 132 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86 61 79 98 94 81 68 64 55 74 82 100 62 69 58 57 101 103 99 56 53 60 85 83 87 84 66 95 96 63 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 101 94 103 95 96 100 98 74 99 63 67 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 119 117 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 53 56 57 59 62 63 64 65 60 67 66 55 70 68 69 61 74 72 71 73 75 76 80 78 79 77 81 82 86 85 83 87 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 62 58 68 53 60 69 61 63 74 67 65 72 70 56 71 73 66 81 86 82 85 83 84 55 57 87 75 76 59 80 78 79 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\system_mt7687.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141 137 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 62 63 84 54 58 83 97 53 85 87 96 82 95 68 69 61 64 57 55 94 74 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 62 58 68 53 60 69 61 82 85 83 84 55 57 87 97 95 94 96 54 63 74 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135 134 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 83 63 74 62 64 71 59 53 84 66 98 58 60 85 87 104 102 81 82 86 68 69 61 57 55 76 105 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 59 98 74 102 104 105 71 63 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_gpio_7687.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142 138 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 66 79 74 94 82 62 69 58 57 84 101 81 86 68 61 64 76 63 106 107 105 56 53 60 85 83 87 95 104 59 67 96</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 76 59 63 74 67 94 106 95 96 105 101 107 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_irrx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 140 139 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 64 86 122 58 63 81 68 55 72 125 123 82 62 69 57 96 71 65 121 66 56 53 60 85 83 87 84 74 78 95 94 97 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 125 95 94 96 122 97 71 63 74 67 65 72 123 121</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_log.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 149 147 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 62 58 64 74 71 60 65 53 72 124 66 67 68 69 61 81 82 86 57 84 63 85 83 87 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 62 58 68 53 60 69 61 74 67 65 72 66 81 64 86 56 82 85 83 84 55 57 87 71</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_nvic.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110 111 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 62 53 71 84 63 127 56 64 58 60 96 82 66 81 86 68 69 61 85 83 87 55 79 74 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 127 96 71 63 74 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\hal_nvic_internal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 136 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86 61 127 81 68 57 79 66 82 62 69 58 96 56 64 53 60 55 84 85 83 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 127 79 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\hal_pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113 116 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96 81 68 64 55 94 66 86 61 95 63 107 82 62 69 58 57 67 97 65 122 59 56 53 60 85 83 87 84 76 74 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 59 63 74 67 65 72 94 122 97 107 95 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112 114 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 105 82 62 69 58 57 96 76 94 81 86 68 61 64 55 84 107 59 56 53 60 85 83 87 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 66 81 64 62 58 68 53 60 69 61 86 56 82 85 83 84 55 57 87 59 94 107 95 96 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\driver\chip\mt7687\src\common\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118 120 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100 58 62 69 64 101 82 94 66 131 68 61 81 86 57 84 97 129 126 122 103 53 60 98 56 85 83 87 95 128 55 74 96 80</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128 64 62 58 68 53 60 69 61 100 66 81 86 56 82 85 83 84 55 57 87 98 74 129 94 95 96 131 126 80 101 122 97 103</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
